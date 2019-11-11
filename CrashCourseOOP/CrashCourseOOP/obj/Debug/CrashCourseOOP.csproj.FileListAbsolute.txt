@@ -1,0 +1,6 @@
+D:\CrashCourseOOP\CrashCourseOOP\CrashCourseOOP\bin\Debug\CrashCourseOOP.exe.config
+D:\CrashCourseOOP\CrashCourseOOP\CrashCourseOOP\bin\Debug\CrashCourseOOP.exe
+D:\CrashCourseOOP\CrashCourseOOP\CrashCourseOOP\bin\Debug\CrashCourseOOP.pdb
+D:\CrashCourseOOP\CrashCourseOOP\CrashCourseOOP\obj\Debug\CrashCourseOOP.csprojAssemblyReference.cache
+D:\CrashCourseOOP\CrashCourseOOP\CrashCourseOOP\obj\Debug\CrashCourseOOP.exe
+D:\CrashCourseOOP\CrashCourseOOP\CrashCourseOOP\obj\Debug\CrashCourseOOP.pdb
